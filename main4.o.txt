@@ -1,0 +1,6 @@
+Coff-Dump Utility V1.4
+Copyright (c) 2017 Custom Computer Services, Inc.
+-------------------------------------------------
+
+Error while creating the coff object:
+Coff file 'C:\Users\beyza\OneDrive\Masaüstü\c++practices\main4.o' does not appear to be a valid COF file. (34404)
